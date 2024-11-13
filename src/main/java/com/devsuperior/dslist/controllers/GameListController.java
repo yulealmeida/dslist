@@ -27,5 +27,5 @@ public class GameListController {
         List<GameListDTO> result = gameListService.findAll();
         return result;
     }
-
+ //lists
 }
